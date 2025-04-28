@@ -1,5 +1,11 @@
 # ultimatePong
 This project started out as a simple assignment in CSC 103 to create pong, but then became a personal project of mine that ended as Pong: The Fighting Game
+
+The files in the game go as follows:
+asherCasedPong is the main program that runs the game
+Animation is the animation class that I use, which inherits gifs to create animations in the window
+All gifs and mp3s are animations and sound effects for the game
+
 The controls go as follows:
 'q' can be used to start the game from the start screen and restart the game, taking you back to the start screen
 The spacebar can be used to pause the game and is also used to start the ball
